@@ -1,0 +1,12 @@
+# 1. Create a new directory
+mkdir sample_project
+cd sample_project
+
+# 2. Create a text file
+echo "Hello, this is my first Linux shell task." > readme.txt
+
+# 3. Display the file content
+cat readme.txt
+
+# 4. List files in the directory
+ls -l
